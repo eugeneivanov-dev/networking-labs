@@ -4,15 +4,35 @@ Hands-on networking experiments performed in a personal infrastructure lab.
 
 This repository documents practical networking exercises focused on understanding core networking concepts and how they apply to real infrastructure environments.
 
-The goal of these labs is to build hands-on experience with network configuration, troubleshooting, and architecture.
+The goal of these labs is to build hands-on experience with network configuration, troubleshooting, and infrastructure architecture.
+
+---
+
+# Networking Labs
+
+Hands-on networking experiments performed in a personal infrastructure lab.
+
+This repository documents practical networking exercises focused on understanding core networking concepts and how they apply to real infrastructure environments.
+
+The goal of these labs is to build hands-on experience with network configuration, troubleshooting, and infrastructure architecture.
+
+---
+
+# Network Topology
+
+The networking labs are performed within a home infrastructure environment built on a dedicated network stack.
+
+This topology provides a controlled environment for testing DNS, VLAN segmentation, firewall rules, and VPN connectivity.
+
+![Network Topology](docs/network-topology.svg)
 
 ---
 
 # Lab Topics
 
-The repository currently includes the following networking labs:
+The repository currently includes the following networking labs.
 
-### DNS Lab
+## DNS Lab
 
 Understanding how DNS resolution works and how DNS servers interact with clients and upstream resolvers.
 
@@ -23,11 +43,12 @@ Topics covered:
 - resolver configuration
 - DNS troubleshooting
 
-[dns-lab.md](dns-lab.md)
+Documentation:  
+[dns-lab.md](docs/dns-lab.md)
 
 ---
 
-### Firewall Lab
+## Firewall Lab
 
 Understanding how firewall rules control network traffic and how security policies are applied within a network.
 
@@ -38,26 +59,28 @@ Topics covered:
 - network access control
 - troubleshooting blocked traffic
 
-[firewall.md](firewall.md)
+Documentation:  
+[firewall.md](docs/firewall.md)
 
 ---
 
-### VLAN Lab
+## VLAN Lab
 
 Understanding how VLANs segment networks and improve network organization and security.
 
 Topics covered:
 
-- VLAN concepts
+- VLAN fundamentals
 - network segmentation
 - switch port configuration
 - inter-VLAN routing
 
-[vlan-lab.md](vlan-lab.md)
+Documentation:  
+[vlan-lab.md](docs/vlan-lab.md)
 
 ---
 
-### VPN Lab
+## VPN Lab
 
 Understanding how VPN tunnels provide secure remote access to internal networks.
 
@@ -68,7 +91,8 @@ Topics covered:
 - remote network access
 - connectivity troubleshooting
 
-[vpn-lab.md](vpn-lab.md)
+Documentation:  
+[vpn-lab.md](docs/vpn-lab.md)
 
 ---
 
@@ -82,11 +106,11 @@ These labs are performed within a personal home infrastructure lab environment t
 - Linux client systems
 - internet connectivity
 
-The environment allows testing of real networking concepts in a controlled infrastructure setup.
+This environment allows testing of real networking concepts in a controlled infrastructure setup.
 
 ---
 
-# Purpose
+# Repository Purpose
 
 The purpose of this repository is to:
 
@@ -100,7 +124,7 @@ The purpose of this repository is to:
 # Author
 
 Eugene Ivanov  
-Infrastructure / IT Operations  
+Infrastructure Engineering  
 Austin, Texas
 
 Website  
