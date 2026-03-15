@@ -23,9 +23,7 @@ Topics covered:
 - resolver configuration
 - DNS troubleshooting
 
-File:
-
-[DNS Lab](dns-lab.md)
+[dns-lab.md](dns-lab.md)
 
 ---
 
@@ -40,9 +38,7 @@ Topics covered:
 - network access control
 - troubleshooting blocked traffic
 
-File:
-
-[Firewall Lab](firewall.md)
+[firewall.md](firewall.md)
 
 ---
 
@@ -57,9 +53,7 @@ Topics covered:
 - switch port configuration
 - inter-VLAN routing
 
-File:
-
-[VLAN Lab](vlan-lab.md)
+[vlan-lab.md](vlan-lab.md)
 
 ---
 
@@ -74,9 +68,7 @@ Topics covered:
 - remote network access
 - connectivity troubleshooting
 
-File:
-
-[VPN Lab](vpn-lab.md)
+[vpn-lab.md](vpn-lab.md)
 
 ---
 
