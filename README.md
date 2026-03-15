@@ -25,9 +25,7 @@ Topics covered:
 
 File:
 
-```
-dns-lab.md
-```
+[DNS Lab](dns-lab.md)
 
 ---
 
@@ -44,9 +42,7 @@ Topics covered:
 
 File:
 
-```
-firewall.md
-```
+[Firewall Lab](firewall.md)
 
 ---
 
@@ -63,9 +59,7 @@ Topics covered:
 
 File:
 
-```
-vlan-lab.md
-```
+[VLAN Lab](vlan-lab.md)
 
 ---
 
@@ -82,9 +76,7 @@ Topics covered:
 
 File:
 
-```
-vpn-lab.md
-```
+[VPN Lab](vpn-lab.md)
 
 ---
 
