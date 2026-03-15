@@ -8,23 +8,22 @@ The goal of these labs is to build hands-on experience with network configuratio
 
 ---
 
-# Networking Labs
-
-Hands-on networking experiments performed in a personal infrastructure lab.
-
-This repository documents practical networking exercises focused on understanding core networking concepts and how they apply to real infrastructure environments.
-
-The goal of these labs is to build hands-on experience with network configuration, troubleshooting, and infrastructure architecture.
-
----
-
 # Network Topology
 
 The networking labs are performed within a home infrastructure environment built on a dedicated network stack.
 
 This topology provides a controlled environment for testing DNS, VLAN segmentation, firewall rules, and VPN connectivity.
 
-![Network Topology](docs/network-topology.svg)
+[View full network topology](docs/network-topology.svg)
+
+Key components:
+
+- UniFi Dream Machine Pro Max (gateway / firewall)
+- UniFi Switch (PoE)
+- VLAN segmented networks
+- Linux lab servers
+- Synology NAS
+- Wireless infrastructure
 
 ---
 
@@ -43,8 +42,8 @@ Topics covered:
 - resolver configuration
 - DNS troubleshooting
 
-Documentation:  
-[dns-lab.md](docs/dns-lab.md)
+Documentation: 
+[DNS Lab](docs/dns-lab.md)
 
 ---
 
@@ -59,8 +58,8 @@ Topics covered:
 - network access control
 - troubleshooting blocked traffic
 
-Documentation:  
-[firewall.md](docs/firewall.md)
+Documentation: 
+[Firerwall Lab](docs/firewall.md)
 
 ---
 
@@ -75,8 +74,8 @@ Topics covered:
 - switch port configuration
 - inter-VLAN routing
 
-Documentation:  
-[vlan-lab.md](docs/vlan-lab.md)
+Documentation: 
+[VLAN Lab](docs/vlan-lab.md)
 
 ---
 
@@ -91,8 +90,8 @@ Topics covered:
 - remote network access
 - connectivity troubleshooting
 
-Documentation:  
-[vpn-lab.md](docs/vpn-lab.md)
+Documentation: 
+[VPN Lab](docs/vpn-lab.md)
 
 ---
 
